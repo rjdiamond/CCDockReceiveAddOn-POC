@@ -1,4 +1,4 @@
-# DockReceiveAddOn-POC
+# CCDockReceiveAddOn-POC
 Adds a form button next to dock received csXs for opening an inventory page.
 
 Clicking on the form button will open a new window displaying the 'inventory at' location results.
