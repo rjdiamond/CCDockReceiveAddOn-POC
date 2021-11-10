@@ -1,11 +1,9 @@
 # CCDockReceiveAddOn-POC
-Adds a form button next to all csXs listed inside the dock received PO allowing you to open an 'inventory at' page in a new window.
 
-Clicking on the form button will open a new window displaying the 'inventory at' location results.
+Adds a function button next to all csXs listed inside the Dock Received PO allowing you to open an Inventory At page in a new window.
 
-Button added to all POs in docked received for credit capping.
+Button added to all POs in Docked Received for use credit capping - eliminates the need to copy and paste each csX into the Inventory page.
 
-This will eliminate the need to copy and paste each csX into the 'intenvory at' page.
-
+Companion script to Inventory At autofill: https://github.com/rjdiamond/CCInventoryAtAutoFill-POC
 
 Currently private, message me to request access.
